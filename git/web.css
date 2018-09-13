@@ -1,0 +1,191 @@
+	.headerx{
+		background:#415e9b;
+		height:80px;
+		border:1px solid #415e9b;
+		color:white;
+		
+		
+	}
+	body{
+	
+	font-family:seoge-ui;
+	background:linear-gradient(rgba(229,229,229,1),rgba(229,229,229,1));
+
+	}
+	*{
+		margin:0px;
+		padding:0px;
+	}
+	.facebook-login{
+		margin-left:650px;
+		float:left;
+	padding-top:22px;
+margin-top:-70px;
+		
+	}
+		.email{
+			float:left;
+			font-size:14px;
+					}
+		.email label{
+			padding-bottom:144px;
+		}
+		.password label{
+			padding-bottom:14px;
+		}
+		.email input[type="text"]
+		{
+			height:20px;
+			width:150px;
+			border:1px solid black;
+		}
+		.password input[type="password"]
+		{
+			
+			height:20px;
+			width:150px;
+		border:1px solid black;
+		}
+		.password{
+			float:left;
+			font-size:14px;
+			
+			margin-left:15px;
+		}
+		.login{
+			float:left;
+			padding-top:15px;
+			margin-left:20px;
+			
+			
+		
+		}
+		.password a{
+			color:white;
+			text-decoration:none;
+			padding-top:10px;
+		}
+		.login input[type="button"]
+		{
+		color:white;
+		display:block;
+		background:#4267b2;
+		border:1px solid black;
+		padding:2px;
+		border-radius:2px;
+		height:20px;
+		width:50px;
+		}
+		.connect {
+			margin-left:80px;
+		color:#142170;	
+		margin-top:50px;
+		font-size:20px;
+		
+		}
+		.account{
+float:left;
+margin-left:650px;
+margin-top:-290px;
+		}
+		 h{
+			font-size:30px;
+			font-weight:60px;
+		}
+		 p1{
+			font-size:20px;
+			margin-top:-10px;
+		margin-left:0px;	
+			
+		}
+		.account-content input[type="text"]
+		{
+			height:40px;
+			width:150px;
+			padding:10px;
+		font-size:20px;
+		margin-top:20px;
+		}
+		.mobile input[type="text"]
+		{
+			width:305px;
+	margin-top:10px;
+	font-size:18px;
+	
+
+		}
+		.new input[type="password"]
+		{
+			width:305px;
+			font-size:19px;
+			margin-top:13px;
+			height:40px;
+			padding:10px;
+		}
+	.birthday{
+		margin-top:-15px;
+		font-size:20px;
+	}
+	.birthday p{
+	margin-top:10px;
+	}	
+.birthday a{
+	font-size:10px;
+	text-decoration:none;
+	
+}
+.radio{
+	margin-top:10px;
+	font-size:15px;
+	
+}
+.con p{
+	margin-top:10px;
+	font-size:12px;
+}
+.con a{
+	
+	text-decoration:none;
+}
+.signup {
+	border:1px solid black;
+	background:linear-gradient(#95d67c,#65a953);
+	color:white;
+	border-radius:5px;
+	width:100px;
+	margin-left:50px;
+	padding:10px ;
+	
+	font-size:17px;
+	text-align:center;
+	margin-top:10px;
+	text-decoration:none;
+}
+.sel p{
+	font-size:16px;
+	
+margin-top:10px;
+	}
+	.sel 
+	a{
+	text-decoration:none;
+	}
+		
+.logo{
+	margin-left:120px;
+margin-top:30px;
+	}
+	.logo img{
+	width:180px;}
+	.world{
+		margin-left:50px;
+margin-top:20px;
+	
+	}
+	.world img{
+		margin-top:5px;
+		width:520px;
+	}
+	body{
+		background:linear-gradient(rgba(0,0,0,.06),rgba(0,0,0,.06));
+	}
